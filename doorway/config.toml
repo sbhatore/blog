@@ -1,7 +1,3 @@
-baseurl = "https://kushalsingh007.github.io/"
-languageCode = "en-us"
-title = "Noob blog"
-theme = ""
-
-[params]
-showTagCloud = false
+baseurl = "http://kushalsingh007.github.io/"
+title = "Error and Trial"
+theme = "hyde-hyde"

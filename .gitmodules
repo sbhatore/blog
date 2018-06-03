@@ -8,3 +8,9 @@
 	path = doorway/public
 	url = git@github.com:kushalsingh007/kushalsingh007.github.io.git
 	branch = master
+[submodule "doorway/themes/hugo-academic"]
+	path = doorway/themes/hugo-academic
+	url = git@github.com:gcushen/hugo-academic.git
+[submodule "doorway/themes/hyde-hyde"]
+	path = doorway/themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde.git
