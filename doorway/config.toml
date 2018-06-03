@@ -2,7 +2,6 @@ baseURL = "http://kushalsingh007.github.io/blog"
 languageCode = "en-us"
 title = "Noob blog"
 theme = "er"
-publishDir = "docs"
 
 [params]
 showTagCloud = false
