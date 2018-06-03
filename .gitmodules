@@ -4,3 +4,7 @@
 [submodule "doorway/themes/er"]
 	path = doorway/themes/er
 	url = git@github.com:lingxz/er.git
+[submodule "doorway/public"]
+	path = doorway/public
+	url = git@github.com:kushalsingh007/kushalsingh007.github.io.git
+	branch = master
