@@ -1,4 +1,4 @@
-baseURL = "http://kushalsingh007.github.io/blog"
+baseURL = "http://kushalsingh007.github.io/"
 languageCode = "en-us"
 title = "Noob blog"
 theme = "er"
