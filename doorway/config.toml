@@ -1,0 +1,23 @@
+baseURL = "http://kushalsingh007.github.io/blog"
+languageCode = "en-us"
+title = "Noob blog"
+theme = "er"
+publishDir = "docs"
+
+
+[outputs]
+home = ["HTML", "Atom"]
+
+[mediaTypes]
+[mediaTypes."application/atom"]
+suffix = "xml"
+
+[outputFormats.Atom]
+mediaType = "application/atom"
+baseName = "feed"
+isPlainText = false
+
+disableKinds = ['RSS']
+
+[params]
+math = true
